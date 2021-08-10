@@ -9,3 +9,16 @@ This work is already reported in "A Project-Based Learning Approach for Building
 <img src="https://user-images.githubusercontent.com/88432741/128845997-de1a78d8-3a76-4689-8fee-f60a324d0faf.jpg" width="300" height="300">
 
 https://youtu.be/nnhnmA6dPzQ 
+
+## Design 
+Except the rod, all the pieces are 3D-printed. The CAD files are provided in the folder _CAD_.
+
+## Components
+
+* Microcontroller: Arduino DUE
+* Motor: Maxon RE25 Precious Metal Brushes CLL 10W
+* Motor driver: Escon 50/5 (+ 24V power supply)
+* Ring position sensor: infrared Sharp GP2Y0A41SK0F
+* Motor encoder:  Maxon HEDS 5540
+* Slip ring: Senring H2056-0610
+* Capacitors: 10 μF, 330 nF
