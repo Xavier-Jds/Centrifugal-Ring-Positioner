@@ -17,10 +17,11 @@ This repository is divided in different folders
 * Components: contains the datasheets of the components of the CRP
 * Papers: contains the master thesis paper of the projet and the related published paper.
 
-## Design 
-Except the rod, all the pieces are 3D-printed. The CAD files are provided in the folder _CAD_.
+## Design and Components
 
-## Components
+Except the rod, all the pieces are 3D-printed.
+
+Here is the list of the electronic components:
 
 * Microcontroller: Arduino DUE
 * Motor: Maxon RE25 Precious Metal Brushes CLL 10W
@@ -29,3 +30,4 @@ Except the rod, all the pieces are 3D-printed. The CAD files are provided in the
 * Motor encoder:  Maxon HEDS 5540
 * Slip ring: Senring H2056-0610
 * Capacitors: 10 μF, 330 nF
+
