@@ -10,6 +10,13 @@ This work is already reported in "A Project-Based Learning Approach for Building
 
 https://youtu.be/nnhnmA6dPzQ 
 
+## Getting Started
+This repository is divided in different folders
+* Arduino: contains the Arduino files required to use the CRP
+* CAD: contains the Solidworks files of the building pieces of the CRP
+* Components: contains the datasheets of the components of the CRP
+* Papers: contains the master thesis paper of the projet and the related published paper.
+
 ## Design 
 Except the rod, all the pieces are 3D-printed. The CAD files are provided in the folder _CAD_.
 
