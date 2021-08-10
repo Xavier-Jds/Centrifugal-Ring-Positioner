@@ -1,4 +1,4 @@
-# Centrifugal-Ring-Positioner
+# Centrifugal Ring Positioner
 
 The Centrifugal Ring Positioner (CRP) consists of a novel experimental setup for control engineering teaching. 
 It has been developped through a master thesis project of the Department of Control Engineering and System Analysis of the Université libre de Bruxelles, Belgium.
