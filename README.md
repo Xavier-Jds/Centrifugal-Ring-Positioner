@@ -12,7 +12,7 @@ A video of the control of the CRP can be found on the following link:
 https://youtu.be/nnhnmA6dPzQ 
 
 ## Getting Started
-This repository is divided in different folders
+This repository is divided in different folders:
 * Arduino: contains the Arduino files required to use the CRP
 * CAD: contains the Solidworks files of the building pieces of the CRP
 * Components: contains the datasheets of the components of the CRP
