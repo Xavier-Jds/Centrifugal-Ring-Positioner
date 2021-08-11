@@ -29,7 +29,7 @@ This repository is divided in different folders:
 * Ring position sensor: infrared Sharp GP2Y0A41SK0F
 * Motor encoder:  Maxon HEDS 5540
 * Slip ring: Senring H2056-0610
-* Capacitors: 10 μF, 330 nF
+* Capacitors: 10 μF, 330 nF.
   
 ## Building pieces
 Except the rod, all the pieces are 3D-printed. The CAD files can be found in the folder _CAD_.
