@@ -1,10 +1,9 @@
 # Centrifugal Ring Positioner
 
 The Centrifugal Ring Positioner (CRP) consists of a novel experimental setup for control engineering teaching. 
-It has been developed through a master thesis project of the Department of Control Engineering and System Analysis of the Université libre de Bruxelles, Belgium.
-The setup is mainly composed by 3D-printed pieces. Hence, it is easy-to-build, easily reproducible and affordable.
+It has been developed through a master thesis project in the Department of Control Engineering and System Analysis of the Université libre de Bruxelles, Belgium.
 The CRP aims at illustrating several concepts of closed-loop control (system identification, model validation, PID control...) within a significant
-multidisciplinary context. 
+multidisciplinary context. The setup is mainly composed by 3D-printed pieces. Hence, it is easy-to-build, easily reproducible and affordable.
 
 The aim of this repository is to share this novel experimental setup and to provide all the required information and files to reproduce a CRP. 
 This work is already reported in "A Project-Based Learning Approach for Building an Affordable Control Teaching Lab: the Centrifugal Ring Positioner", (date + revue).
