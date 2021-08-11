@@ -33,5 +33,10 @@ This repository is divided in different folders:
 * Capacitors: 10 μF, 330 nF
   
 ## Building pieces
- Except the rod, all the pieces are 3D-printed. The CAD files can be found in the folder _CAD_.
+Except the rod, all the pieces are 3D-printed. The CAD files can be found in the folder _CAD_.
 
+## Softwares
+The following softwares have been used for building and controlling the CRP. Alternatives can be used.
+* Solidworks: CAD design of the building pieces
+* Matlab: controllers design and simulation
+* Arduino IDE: Arduino programming 
