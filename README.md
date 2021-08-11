@@ -39,4 +39,4 @@ Except the rod, all the pieces are 3D-printed. The CAD files can be found in the
 The following softwares have been used for building and controlling the CRP. Alternatives can be used.
 * Solidworks: CAD design of the building pieces
 * Matlab: controllers design and simulation
-* Arduino IDE: Arduino programming 
+* Arduino IDE: Arduino programming.
