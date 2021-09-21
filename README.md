@@ -17,10 +17,11 @@ https://youtu.be/nnhnmA6dPzQ
 
 ## Getting Started
 This repository is divided in different folders:
-* Arduino: contains the Arduino files required to use the CRP
-* CAD: contains the Solidworks files of the building pieces of the CRP
+* CAD: contains the Solidworks and STL files of the building pieces of the CRP
+* Codes (Arduino & MATLAB): contains the Arduino and MATLAB files used to simulate and control the CRP
 * Components: contains the datasheets of the components of the CRP
-* Papers: contains the master thesis paper of the projet and the related published paper.
+* Papers: contains the master thesis paper of the projet and the related published paper
+* Teahcing material: contains the teaching material related to the use of the CRP in our department.
 
 ## Components
 * Microcontroller: Arduino DUE
