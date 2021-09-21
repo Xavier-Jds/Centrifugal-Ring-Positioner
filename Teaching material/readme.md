@@ -1,4 +1,5 @@
-As explained in the paper, the CRP is currently used as a teaching experimental setup for the laboratory sessions of the Control System Design course at the Université libre de Bruxelles.
+The CRP is currently used as a teaching experimental setup for the laboratory sessions of the Control System Design course at the Université libre de Bruxelles.
+The aim of these labs is design and implement a controller which meets one or several requirements for a real plant
 
 The file *Control System Design Laboratory Material.pdf* consists of the laboratory statement.
 
