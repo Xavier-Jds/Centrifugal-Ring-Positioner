@@ -8,7 +8,7 @@ multidisciplinary context. The setup is mainly composed by 3D-printed pieces. He
 The aim of this repository is to share this novel experimental setup and to provide all the required information and files to reproduce a CRP. 
 This work is already reported in "A Project-Based Learning Approach for Building an Affordable Control Teaching Lab: the Centrifugal Ring Positioner", (date + revue).
 
-The CRP is an unstable and non-linear system, consisting of a ring able to slide on a rod thanks to the balance between gravity and centrifugal force. The control of the system aims at stabilizing the ring at any fixed position on the rod.
+The CRP is an unstable and nonlinear system, consisting of a ring able to slide on a rod thanks to the balance between gravity and centrifugal force. The control of the system aims at stabilizing the ring at any fixed position on the rod.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88432741/128845997-de1a78d8-3a76-4689-8fee-f60a324d0faf.jpg" width="300" height="300">
 
