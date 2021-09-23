@@ -6,7 +6,7 @@ The CRP aims at illustrating several concepts of closed-loop control (system ide
 multidisciplinary context. The setup is mainly composed by 3D-printed pieces. Hence, it is easy-to-build, easily reproducible and affordable.
 
 The aim of this repository is to share this novel experimental setup and to provide all the required information and files to reproduce a CRP. 
-This work is already reported in "A Project-Based Learning Approach for Building an Affordable Control Teaching Lab: the Centrifugal Ring Positioner", (date + revue).
+***This work is already reported in "A Project-Based Learning Approach for Building an Affordable Control Teaching Lab: the Centrifugal Ring Positioner", (date + revue).***
 
 The CRP is an unstable and nonlinear system, consisting of a ring able to slide on a rod thanks to the balance between gravity and centrifugal force. The control of the system aims at stabilizing the ring at any fixed position on the rod.
 
@@ -21,7 +21,7 @@ This repository is divided in different folders:
 * Codes (Arduino & MATLAB): contains the Arduino and MATLAB files used to simulate and control the CRP
 * Components: contains the datasheets of the components of the CRP
 * Papers: contains the master thesis paper of the projet and the related published paper
-* Teahcing material: contains the teaching material related to the use of the CRP in our department.
+* Teaching material: contains the teaching material related to the use of the CRP in our department.
 
 ## Components
 * Microcontroller: Arduino DUE
@@ -38,5 +38,5 @@ Except the rod, all the pieces are 3D-printed. The CAD files can be found in the
 ## Softwares
 The following softwares have been used for building and controlling the CRP. Alternatives can be used.
 * Solidworks: CAD design of the building pieces
-* Matlab: controllers design and simulation
+* MATLAB/Simulink: controllers design and simulation
 * Arduino IDE: Arduino programming.
