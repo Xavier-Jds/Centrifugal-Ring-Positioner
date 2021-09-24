@@ -6,7 +6,6 @@ The CRP aims at illustrating several concepts of closed-loop control (system ide
 multidisciplinary context. The setup is mainly composed by 3D-printed pieces. Hence, it is easy-to-build, easily reproducible and affordable.
 
 The aim of this repository is to share this novel experimental setup and to provide all the required information and files to reproduce a CRP. 
-***This work is already reported in "A Project-Based Learning Approach for Building an Affordable Control Teaching Lab: the Centrifugal Ring Positioner", (date + revue).***
 
 The CRP is an unstable and nonlinear system, consisting of a ring able to slide on a rod thanks to the balance between gravity and centrifugal force. The control of the system aims at stabilizing the ring at any fixed position on the rod.
 
