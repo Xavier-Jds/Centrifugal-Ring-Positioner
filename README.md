@@ -33,12 +33,11 @@ This repository is divided in different folders:
   
 ## Building pieces
 Except the rod, all the pieces are 3D-printed. The CAD files can be found in the folder _CAD_.
-  
-**All the construction plans and the software are released under license CC BY-NC-SA 4.0 (for the purpose of this license academic and training usage are to be considered non-commercial)**
-
-
+ 
 ## Softwares
 The following softwares have been used for building and controlling the CRP. Alternatives can be used.
 * Solidworks: CAD design of the building pieces
 * MATLAB/Simulink: controllers design and simulation
 * Arduino IDE: Arduino programming.
+
+**All the construction plans and the software are released under license CC BY-NC-SA 4.0 (for the purpose of this license academic and training usage are to be considered non-commercial)**
